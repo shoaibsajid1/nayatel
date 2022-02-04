@@ -38,4 +38,3 @@
 - More
 
   - [Tips & Tricks](tips.md)
-  - [NOC](knock.md)
