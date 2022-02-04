@@ -1,13 +1,15 @@
-- Getting started
+- TAC
 
-  - [Home](/)
+  - [Tips & Tricks](tips.md)
+  - [Resources](TAC.md)
+  - [Announcements](updates.md)
+  - [Nwall Price](nwall-price.md)
+  - [Whatsapp](whatsapp.md)
+  - [Portal](portal.md)
+  - [App](nayatelapp.md)
+  - [CVAS](cvas.md)
+  - [TAC](TAC.md)
 
-
-- Systems
-  - [Web hosting](webhosting.md)
-  - [Mail hosting](mail.md)
-  - [Firewall](firewall.md)
-  - [eView](eview.md)
 
 - Video
   - [Basic Cable](basic.md)
@@ -23,18 +25,13 @@
   - [Optimus](optimus.md)
   - [Speedup](speedup.md)
 
-- TAC
 
-  - [Resources](TAC.md)
-  - [Announcements](updates.md)
-  - [Nwall Price](nwall-price.md)
-  - [Whatsapp](whatsapp.md)
-  - [Portal](portal.md)
-  - [App](nayatelapp.md)
-  - [CVAS](cvas.md)
-  - [TAC](TAC.md)
+- Systems
+  - [Web hosting](webhosting.md)
+  - [Mail hosting](mail.md)
+  - [Firewall](firewall.md)
+  - [eView](eview.md)
 
 - More
 
   - [About](about.md)
-  - [Changelog](changelog.md)
