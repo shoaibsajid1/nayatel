@@ -2,13 +2,13 @@
 
 
 
-### CRM tabs
+## CRM tabs
 
 CRM would not allow to open more than five (05) tabs (excluding CTI) in the browser.
 
 ---
 
-### POTS outage
+## POTS outage
 
 POTS service outage is being observed in following areas. Teams are working for resolution. No ETTR. Resolution could take days/months.
 
@@ -19,7 +19,7 @@ B-17
 
 ---
 
-### Emulator for Routers
+## Emulator for Routers
 
 https://www.tp-link.com/us/support/emulator/
 
@@ -27,13 +27,13 @@ Very useful site to know the options of TP Link routers GUI in case you are conf
 
 ---
 
-### Whatsapp Tip
+## Whatsapp Tip
 
 if a customer calls on WhatsApp, open their chat and tell them to send their query in written instead of just leaving the chat altogether. this is very wrong practice
 
 ---
 
-### Support PC Mails
+## Support PC Mails
 
 Trailing signatures have been added in both L1 Outlook PCs. Use these drafts to address customer concerns. Intimation emails will be sent to NTL customers by today.
 
@@ -59,20 +59,20 @@ Thank you for your understanding and cooperation.
 
 ---
 
-### Breaks
+## Breaks
 
 Breaks in last 3 slots are reserved for Cover, Even+ and Even++,
 Update your breaks accordingly. No one is allowed to break in last hour of duty.
 
 ---
 
-### Complaint
+## Complaint
 
 Never ever ever mention to customer that your complaint is Pending due to work load.
 
 ---
 
-### CTI Fix
+## CTI Fix
 
 Update Chrome to the latest version:
 chrome://settings/help
@@ -89,13 +89,13 @@ Perform these steps. Also, as per few of you, CTI popups are observed to be miss
 
 ---
 
-### Mobile App
+## Mobile App
 
 Mobile Offers WORKS on PhoneApp number as well. Please treat PhoneApp as POTS number but only on mobile phones not landline.
 
 ---
 
-### Trouble Tickets
+## Trouble Tickets
 
 Please ensure following points while coordinating trouble tickets:
 
@@ -105,7 +105,7 @@ Please ensure following points while coordinating trouble tickets:
 
 ---
 
-### DNS
+## DNS
 
 Always make sure to renew ip configurations in end devices after changing dns in ONT. End devices won't automatically acquire new IP configurations.
 

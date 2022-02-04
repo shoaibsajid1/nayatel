@@ -1,15 +1,13 @@
 - TAC
 
-  - [Tips & Tricks](tips.md)
   - [Resources](TAC.md)
-  - [Announcements](updates.md)
   - [Nwall Price](nwall-price.md)
   - [Whatsapp](whatsapp.md)
   - [Portal](portal.md)
   - [App](nayatelapp.md)
   - [CVAS](cvas.md)
   - [TAC](TAC.md)
-
+  - [Tips & Tricks](tips.md)
 
 - Video
   - [Basic Cable](basic.md)
