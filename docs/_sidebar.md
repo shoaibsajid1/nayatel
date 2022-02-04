@@ -7,7 +7,7 @@
   - [App](nayatelapp.md)
   - [CVAS](cvas.md)
   - [TAC](TAC.md)
-  - [Tips & Tricks](tips.md)
+
 
 - Video
   - [Basic Cable](basic.md)
@@ -32,4 +32,4 @@
 
 - More
 
-  - [About](about.md)
+  - [Tips & Tricks](tips.md)

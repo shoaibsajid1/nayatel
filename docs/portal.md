@@ -1,20 +1,20 @@
 # Customer Portal
 
-**How to change Wifi Password**
+
+
+## Wifi Password
 
 ![WifiPass](https://cdn.discordapp.com/attachments/389455820741541893/934857712032972910/wifipass.png)
 
 *For mobile:* Go to More > Wifi Password Change
 
-**How to unsub promo**
+## Unsub Promo
 
 ![Unsubpromo](https://cdn.discordapp.com/attachments/389455820741541893/934857711760322580/unsub.png)
 
 *For mobile:* Go to Support > Sub/Unsub Promos
 
 ## Report & Info
-
-Customer Volume Usage - Detail Session Report - Internet Usage History - Call Detail Record
 
 ![reportandinfo](https://cdn.discordapp.com/attachments/389455820741541893/934858506715168768/ss_2022-01-23_at_10.13.44_PM.png)
 
