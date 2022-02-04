@@ -1,5 +1,108 @@
 # NOC
 
+<h1 align="center"> Cisco </h1>
+
+## Finding the link
+
+``` 
+show interfaces description | i ACBLI9MARKAZ 
+```
+```
+show interfaces description | i 28622
+```
+
+## To check IP Pool information
+
+``` 
+show run router static | I Customer’s WAN IP  
+```
+
+```
+show run router static | i 203.99.54.234
+```
+
+## To find OLT of each link
+
+``` 
+show running-config interface BE531
+```
+
+## MAC received against customer’s IP
+
+``` 
+show arp 203.99.54.234
+```
+
+## Link Utilization
+
+``` 
+show interfaces BV2680 | i rate
+```
+
+## L2VPN xconnect details
+
+``` 
+sh l2vpn xconnect interface BE531.1019
+```
+Legend:
+- ST = State
+- UP = Up
+- DN = Down
+- AD = Admin Down
+- UR = Unresolved
+- SB = Standby
+- SR = Standby Ready
+- PP = Partially Programmed
+
+## To ping L3VPN
+
+``` 
+ping vrf acbli8markaz 192.168.13.229
+```
+
+```
+ping  vrf acbli8markaz 192.168.13.230 count 50 
+```
+## To check routes
+
+```
+show route vrf acbli8markaz
+```
+
+Codes: 
+- C - connected
+- S - static
+- R - RIP
+- B - BGP, (>) - Diversion path 
+- D - EIGRP
+- EX - EIGRP external
+- O - OSPF
+- IA - OSPF inter area 
+- N1 - OSPF NSSA external type 1
+- N2 - OSPF NSSA external type 2
+- E1 - OSPF external type 1
+- E2 - OSPF external type 2
+- E - EGP 
+- i - ISIS
+- L1 - IS-IS level-1
+- L2 - IS-IS level-2 
+- ia - IS-IS inter area
+- su - IS-IS summary null * - candidate default 	 
+- U - per-user static route
+- o - ODR
+- L - local
+- G  - DAGR
+- l - LISP 
+- A - access/subscriber, a - Application route 
+- M - mobile route, r - RPL, (!) - FRR Backup path 
+
+## Identify link from IP
+
+```
+show ipv4 vrf all interface brief  | include   192.168.13.229 
+```
+
+<h1 align="center"> Juniper </h1>
 
 ## To find the link
 
