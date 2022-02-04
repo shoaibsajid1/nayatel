@@ -1,4 +1,3 @@
-# NOC
 
 <h1 align="center"> Cisco </h1>
 
