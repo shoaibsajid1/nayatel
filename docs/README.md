@@ -18,6 +18,10 @@ For [NMS](https://nms.nayatel.com/)
 ```
 N@y@te123456
 ```
+For [Knowledge](http://knowledge.dsl.net.pk/)
+```
+Int3rnal
+```
 For BRAS
 ```
 F0rtac1ansN3w
