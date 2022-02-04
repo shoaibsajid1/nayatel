@@ -17,12 +17,50 @@
   />
 </head>
 <body>
-  <div id="app">We are building somthing special for you ...</div>
+  <div id="app">Oh Hi There :3...</div>
   <script>
     window.$docsify = {
+      ga: 'G-21FZ28XSYL',
+        darklightTheme: {
+              siteFont : "PT Sans",
+              defaultTheme : 'dark',
+              codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+              bodyFontSize : '17px',
+              dark: {
+                  accent: '#2979ff',
+                  toogleBackground : '#ffffff',
+                  background: '#282828',
+                  textColor: '#b4b4b4',
+                  codeTextColor : '#ffffff',
+                  codeBackgroundColor : '#404040',
+                  borderColor : '#404040',
+                  blockQuoteColor : '#858585',
+                  highlightColor : '#ff6d00',
+                  sidebarSublink : '#b4b4b4',
+                  codeTypeColor : '#ffffff',
+                  coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+                  toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+              },
+              light: {
+                  accent: '#2979ff',
+                  toogleBackground : '#091a28',
+                  background: '#ffffff',
+                  textColor: '#34495e',
+                  codeTextColor : '#858585',
+                  codeBackgroundColor : '#f8f8f8',
+                  borderColor : 'rgba(0, 0, 0, 0.07)',
+                  blockQuoteColor : '#858585',
+                  highlightColor : '#ff6d00',
+                  sidebarSublink : '#858585',
+                  codeTypeColor : '#091a28',
+                  coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+                  toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+              }
+          },
       search: 'auto',
-      coverpage: true,
-      name: 'your_project_theme',
+      coverpage: false,
+      loadSidebar: true,
+      name: 'Home',
       search: {
         noData: {
           '/': 'No results!'
@@ -49,6 +87,8 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
   <script 
     src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
     type="text/javascript">
