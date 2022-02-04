@@ -1,7 +1,6 @@
+<h1 align="center"> OPTIMUS </h1>
 
-### OPTIMUS
-
-#### NAT Type 2
+## NAT Type 2
 
 To achieve Open NAT or Type 2 NAT, follow below steps:
 
@@ -12,8 +11,7 @@ To achieve Open NAT or Type 2 NAT, follow below steps:
 
 Do inform customers that enabling above 3 options in ONT may lead to attacks and LAN network being exploitable.
 
-:::danger
+## NAT Type 1
 
-Type 1 NAT can **ONLY** be achieved by assigning Live IP address to end device or direct dialing
+!> Type 1 NAT can **ONLY** be achieved by assigning Live IP address to end device or direct dialing
 
-:::

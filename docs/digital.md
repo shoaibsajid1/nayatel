@@ -1,9 +1,9 @@
-### Digital CAS
+# Digital CAS
 
 
-[**Digital CAS Emulator**](http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/digital-cas.html)
+[Digital CAS Emulator](http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/digital-cas.html)
 
-#### How to Restore Digital Box
+## Restore Digital Box
 
  Video Tutorial
 
@@ -34,10 +34,10 @@ Step 6: Click Autosearch
 
 ![Digital6](/_media/digital6.png)
 
-#### Price
+## Price
 
 STB Price as of 4 Dec 2021 is 6,900/-
 
-#### Manual
+## Manual
 
 [**Setup box Manual**](https://nayatel.com/wp-content/uploads/2020/02/Settop-Box-MANUAL.pdf)

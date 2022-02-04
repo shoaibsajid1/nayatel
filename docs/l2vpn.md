@@ -1,6 +1,4 @@
-# L2 VPN 
-
-## Summary
+# L2 VPN
 
 - Status Active ?
 - Power in range ?

@@ -8,7 +8,7 @@ You can only do so from the customer portal, not from app.
 
 - On CRM, click **Nwatch**
 - Note the IP of the cameras and open them 
-> You might need to use Internet Explorer for this
+> You might need to use Internet Explorer for this or [ie tab plugin](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd)
 - Enter:
     - username: admin
     - password: Ntl*ntlnumberhere*
@@ -44,6 +44,14 @@ You can only do so from the customer portal, not from app.
 
 ![-](https://cdn.discordapp.com/attachments/389455820741541893/939152064590774372/Screen_Shot_2022-02-03_at_9.30.30_PM.png)
 
-## Nwatch Summary
+## New Nwatch Summary
 
-![-](https://cdn.discordapp.com/attachments/389455820741541893/939152063949070346/Screen_Shot_2022-02-03_at_9.27.54_PM.png)
+!> You do not need Nayatel internet to have Nwatch Plan, only ONT is needed
+
+- Nayatel provides Nwatch Cameras Services with Addtional motion detection feature
+- Nwatch is base plan for New Smart Nwatch
+- New Smart Nwatch Cams must be less than or equal to Nwatch
+- Storage Days of Continuous Rec (Nwatch) and Motion Detection Alerts (New Smart Nwatch) will be same
+- **No** Live View on Customer Portal
+- **No** recording download option from Nwatch Mobile/TV 
+

@@ -1,6 +1,4 @@
-# Customer Portal
-
-## My Nayatel App
+# My Nayatel App
 
 My Nayatel App Bar has Customer Details, Billing, Services, Support & More.
 

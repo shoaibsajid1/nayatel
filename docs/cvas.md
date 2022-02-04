@@ -1,16 +1,12 @@
-
-
-## CVAS
-
-### Reseller Portal
+## Reseller Portal
 
 **https://portalx.nayatel.com**
 
-### Reseller Manual
+## Reseller Manual
 
 [**CVAS Manual**](https://drive.google.com/file/d/1z-0LtpwArOEIFwZ7QkH9n8_gZzhO3y4v/view?usp=sharing)
 
-### Disconnected child
+## Disconnected child
 
 Steps to obtain the list of Disconnected child accounts of CVAS customer:
 
@@ -27,7 +23,7 @@ Steps to obtain the list of Disconnected child accounts of CVAS customer:
 
 ![cvas3](/_media/cvas3.jpeg)
 
-### CVAS service flow
+## CVAS service flow
 
 - Config from Access TAC (no auto script)
 - Account needs to be active
@@ -35,16 +31,8 @@ Steps to obtain the list of Disconnected child accounts of CVAS customer:
 - Reseller Portal (super admin)
 - Installation team calls billing for package allocation
 
-- Verify service
- - Tell customer
- - or customer will test on his own later
 
- CVAS Admin
- - Core if L2 config
-
- Access then Core comes in picture
-
- Service provisioning
+## Service Provisioning
 
 - VALID CVAS LICENSE 
 - NOC on rental lisence 

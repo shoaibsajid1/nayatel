@@ -1,12 +1,12 @@
 
-### Basic Cable
+# Basic Cable
 
-#### How to retune
+### How to retune
 
 - Go to settings
 - Select Analog retune 
 
-##### Noise/Grain Issue
+## Noise/Grain Issue
 
 - Go to Picture settings
 - Enable MPEG Noise reduction / Noise reduction / Clean View etc.
@@ -17,7 +17,7 @@
 
 
 
-##### TCL Smart TV
+## TCL Smart TV
 
 - Using your TCL Android TV remote, navigate and select the **Inputs** icon
 

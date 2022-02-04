@@ -1,6 +1,6 @@
 # VOIP
 
-## Summary
+<h1 align="center"> Summary </h1>
 
 - Account Active ?
 - Physical Layer (Historical Alarms, Powers) ?

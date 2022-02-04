@@ -1,19 +1,16 @@
 
-
-### Joybox/JoyApp
+# Joybox/JoyApp
 
 Joybox Emulator
 
-<p>
+[HD_BOX](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/hdbox-plus.html)  
 
-[**HD_BOX**](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/hdbox-plus.html)  <br/>
+[HD_BOX Smart](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/hdbox-smart.html) 
 
-[**HD_BOX Smart**](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/hdbox-smart.html) <br/>
+[JOYBOX](http://knowledge.dsl.net.pk/JOYBox/)
 
-[**JOYBOX**](http://knowledge.dsl.net.pk/JOYBox/)
-</p>
 
-#### How to clear cache
+## Clear cache
 
  Step 1: Click **Settings** (gear icon)
 
@@ -35,7 +32,7 @@ Joybox Emulator
 
 ![Joy5](/_media/joy5.jpg)
 
-#### Joy Box Stuck / White Screen
+## Joy Box Stuck / White Screen
 
 - Unplug the Ethernet cable.
 - Restart the Joy Box.
@@ -46,40 +43,32 @@ Joybox Emulator
 - Login using the credential.
 - Joy Box will run smoothly.
 
-#### Youtube issue
+## Youtube issue
 
 Youtube version must be **2.10.17**
 
 If app version is already **2.10.17**, 
 then suggest Smart YouTube from Aptoide to such customers.
 
-#### Netflix issue
+- Uninstall Youtube
+- Click Gear Icon
+- Click Settings
+- Click Apps
+- Click Aptoide TV
+- Ignore update notification
+- Click Youtube for Android TV
+- Click **Other versions**
+- Install **2.10.17** (Aug 23,2020), The logo will be Red background.
+
+## Netflix issue
 
 Netflix version must be **4.7.0**
 
 If needed, reset box. 
 
-To verify go to Gear icon > Apps > Netflix > 4.7.0
+To verify go to Gear icon > Settings > Apps > Netflix > 4.7.0
 
-#### VOD , Live , IPTV IPS
-
-Live.nayatel.com streaming server private IP:
-
-**10.50.0.34**
-
-VOD.nayatel.com streaming server private IP:
-
-**10.50.0.20**
-
-**10.50.0.4**
-
-VOD (HDBox Smart) streaming server private IP: 
-
-**10.50.0.5**
-
-**10.50.0.24**
-
-#### Video Extension
+## Hotline
 
 Video Extension - **906**
 

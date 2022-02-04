@@ -1,10 +1,9 @@
 - TAC
 
   - [Resources](TAC.md)
-  - [Nwall Price](nwall-price.md)
   - [Whatsapp](whatsapp.md)
   - [Portal](portal.md)
-  - [App](nayatelapp.md)
+  - [Nayatel App](nayatelapp.md)
   - [CVAS](cvas.md)
   - [TAC](TAC.md)
 
@@ -19,6 +18,7 @@
 - NGN
 
   - [VOIP](voip.md)
+  - [POTS](pots.md)
 
 - Core
 
