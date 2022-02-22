@@ -12,13 +12,13 @@ You need to request from the registered contact number so we may proceed further
 ## Elaborate Query
 
 ```
-Please elaborate your query so that we can proceed accordingly in any regard.
+Please elaborate your query so that we can proceed accordingly in this regard.
 ```
 
 ## Calls
 
 ```
-Please state your query in text format as the voice notes and calls are NOT supported over WhatsApp medium. 
+Please state your query in text format as the voice notes and calls are NOT supported over WhatsApp medium. Alternatively, If you wish to speak to a representative, Kindly call on our UAN 111 11 44 44
 ```
 
 ## Billing
