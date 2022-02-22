@@ -144,7 +144,13 @@ Dear Customer, Please note that your requirement has been registered and forward
 ## Slow Browsing
 
 ```
-
+Dear Customer,
+Kindly verify the following details:
+1. Do you any external routers (TPLink, Dlink etc) or only Nayatel ONT device?
+2. Is the issue faced on Nayatel ONT device or external router?
+3. How far is your mobile from your Router ?
+4. Issue is observed on single device or all devices?
+5. Issue is observed on LAN or Wifi ?
 ```
 
 ## Wifi settings updated
