@@ -166,7 +166,7 @@ Kindly verify the following details:
 ```
 Dear Customer, WiFi settings have been updated as per standard. And as per investigations, back end parameters have been set accordingly.
 Kindly connect a single device and perform speed test in private window.
-In case of any query let us know at support@nayatel.com or 051 8310000 Ext 1 
+In case of any query let us know at support@nayatel.com or call 1441 Ext 1 
 ```
 
 ```
