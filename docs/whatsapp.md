@@ -3,6 +3,7 @@
 
 ## User ID
 ```
+Dear Customer,
 Please mention your *User ID* or *NTL-number* so that we can proceed accordingly in this regard.
 ```
 ## Registered Number
@@ -18,7 +19,14 @@ Please elaborate your query so that we can proceed accordingly in this regard.
 ## Calls
 
 ```
+Dear Customer,
 Please state your query in text format as the voice notes and calls are NOT supported over WhatsApp medium. Alternatively, If you wish to speak to a representative, Kindly call on our UAN 111 11 44 44
+```
+
+## Acknowledged
+
+```
+Acknowledged
 ```
 
 ## Billing
@@ -78,7 +86,7 @@ Thank you for showing interest in Nayatel services.
 Incase you have any queries, please contact us at: 111 11 44 44 Ext 2 (Monday-Saturday 0900-1730 Hrs)
 ```
 ```
-For new connection, hardware information, package info, coverage area and package charges, please contact the concerned Nayatel Sales department between 9AM - 8 PM on Email: sales@nayatel.com or Number: 051-8310000 Ext: 2 between 9 AM - 8 PM or visit www.nayatel.com
+For new connection, hardware information, package info, coverage area and package charges, please contact the Nayatel Sales department between 9AM - 8 PM on Email: sales@nayatel.com or Number: 051-8310000 Ext: 2 between 9 AM - 8 PM or visit www.nayatel.com
 ```
 
 ```
