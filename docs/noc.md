@@ -1,5 +1,23 @@
+# NOC
 
-[NOC Files](https://docs.google.com/document/d/1X5xMOCMEdNuuMMFLR1-_Ea-eGAXhMdV6od9hyEJByFo/edit#)
+## Escalation Matrix
+
+<button class="mbtn blue" onclick="window.open('https://docs.google.com/spreadsheets/d/1tAiLy6RZqBeh7-DjLLiafsb9ptFVTtMCUwuJBz3ufhA/edit#gid=0', '_blank')">Escalation Matrix</button>
+
+## Knowledge Base
+
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/NOC/NOC%20Knowledge%20Base.docx', '_blank')">Knowledge Base</button>
+
+## L2 L3 VPN
+
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/NOC/Premium_L2_L3.pdf', '_blank')">L2 L3 VPN</button>
+
+## Command List (Word)
+
+<button class="mbtn blue" onclick="window.open('https://docs.google.com/document/d/1X5xMOCMEdNuuMMFLR1-_Ea-eGAXhMdV6od9hyEJByFo/edit#', '_blank')">NOC Files</button>
+
+
+<h1 align="center"> COMMAND LIST </h1>
 
 <h1 align="center"> Cisco </h1>
 

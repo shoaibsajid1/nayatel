@@ -1,3 +1,10 @@
+
+## VAS on Nayatel Voice
+
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/Value_added_servies_Nayatel_phone.pdf', '_blank')">Alcatel Softswitch</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/VAS%20on%20SIP%20POTS.pdf', '_blank')">Huawei Softswitch</button>
+
+
 <h1 align="center"> Landline provisiong </h1>
 
 

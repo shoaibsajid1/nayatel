@@ -8,10 +8,6 @@
   - [Call Handling](http://knowledge.dsl.net.pk/troubleshooting/Callhandling.htm)
   - [TAC Guidelines](http://knowledge.dsl.net.pk/TACGuidelines_v1.8.pdf)
   - [Ndoctor Emulator](http://knowledge.dsl.net.pk/Ndoctor/index.html)
-  - [Digital CAS Emulator](http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/main-menu.html)
-  - [HD BOX Plus Emulator](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/main-menu.html)
-  - [HD BOX Smart Emulator](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html)
-  - [JOYBOX Emulator](http://knowledge.dsl.net.pk/JOYBox/index.html)
   - [TAC Workflow v1.14](http://knowledge.dsl.net.pk/TAC%20L1%20TroubleShooting%20Guide%20V%201.14.docx)
   - [Traceroute Link 1](https://network-tools.webwiz.net/traceroute.htm)
   - [Traceroute Link 2](https://centralops.net/co/)
@@ -21,7 +17,6 @@
 
   - [Basic Cable](basic.md)
   - [Digital Box](digital.md)
-    - [Manual](http://knowledge.dsl.net.pk/video/New%20STB%20(CAS).pdf)
   - [Joy](joy.md)
   - [Nwatch](nwatch.md)
 
@@ -66,14 +61,17 @@
 
 
 - NOC
-  - [Escalation Matrix](https://docs.google.com/spreadsheets/d/1tAiLy6RZqBeh7-DjLLiafsb9ptFVTtMCUwuJBz3ufhA/edit#gid=0)
-  - [Command List](noc.md)
-  - [Knowledge Base](http://knowledge.dsl.net.pk/NOC/NOC%20Knowledge%20Base.docx)
+  - [NOC Files](noc.md)
 
 - Level 2
   - [Level 2 Manual](https://docs.google.com/document/d/1I-CNR_mg6JUH2JvvIPpvrXJIF8cj7KYO/edit?usp=sharing&ouid=102631932253348495210&rtpof=true&sd=true)
 
 - Systems TAC
+  - [Outlook 2003](http://knowledge.dsl.net.pk/troubleshooting/systems/outlook2003.htm)
+  - [Outlook Express](http://knowledge.dsl.net.pk/troubleshooting/systems/OutlookExpress.htm)
+  - [Troubleshooting](http://knowledge.dsl.net.pk/troubleshooting/systems/troubleshooting.htm)
+  - [Webhosting](http://knowledge.dsl.net.pk/troubleshooting/systems/web.htm)
+  - [Systems FAQ](http://knowledge.dsl.net.pk/troubleshooting/systems/faq.htm)
   - [Systems/Core Toolkit](http://knowledge.dsl.net.pk/Core-Systems_TAC_Level2Support_ToolKitv1.xlsx)
   - [RBL-FAQs](http://knowledge.dsl.net.pk/RBL-FAQ.htm)
 

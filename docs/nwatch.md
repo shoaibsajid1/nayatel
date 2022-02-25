@@ -1,5 +1,11 @@
 # Nwatch
 
+## DVR Manuals
+
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/SCOUT%20Manual.pdf', '_blank')">SCOUT SC SBA 740C</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/DVR%20HIK%20Vision%20testing.pdf', '_blank')">HKVISION</button>
+
+
 ## How to download Nwatch video
 
 You can only do so from the customer portal, not from app.

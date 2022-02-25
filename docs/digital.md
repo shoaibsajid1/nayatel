@@ -2,15 +2,16 @@
 
 ## Price
 
-<button class="mbtn green">6,900 PKR</button>
-
+<button class="mbtn green" onclick="window.open('https://nayatel.com/digital-box/', '_blank')">6,900 PKR</button>
 ## Manual
 
-<button class="mbtn blue" onclick="window.location.href='https://nayatel.com/wp-content/uploads/2020/02/Settop-Box-MANUAL.pdf'">Setup box Manual</button>
+<button class="mbtn blue" onclick="window.open('https://nayatel.com/wp-content/uploads/2020/02/Settop-Box-MANUAL.pdf', '_blank')">Setup box Tuning Manual</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/Set-top%20Box%20Tuning.htm', '_blank')">Setup box Tuning Manual (Old)</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/New%20STB%20(CAS).pdf', '_blank')">Setup box User Manual</button>
 
 ## Emulator
 
-<button class="mbtn blue" onclick="window.location.href='http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/digital-cas.html'">Digital CAS Emulator</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/main-menu.html', '_blank')">Digital CAS Emulator</button>
 
 
 ## Restore Digital Box

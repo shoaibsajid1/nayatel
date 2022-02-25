@@ -1,36 +1,18 @@
 
 # Joybox/JoyApp
 
-Joybox Emulator
+## Emulator
 
-[HD_BOX](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/hdbox-plus.html)  
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Plus/main-menu.html', '_blank')">HD BOX Plus Emulator</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/main-menu.html', '_blank')">HD BOX Smart Emulator</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/JOYBox/index.html', '_blank')">JOYBOX Emulator</button>
 
-[HD_BOX Smart](http://knowledge.dsl.net.pk/TACEmulator/HD%20Box%20Smart/hdbox-smart.html) 
+## Manuals
 
-[JOYBOX](http://knowledge.dsl.net.pk/JOYBox/)
-
-
-## Clear cache
-
- Step 1: Click **Settings** (gear icon)
-
-![Joy1](/_media/joy1.jpg)
-
- Step 2: Click Settings
-
-![Joy2](/_media/joy2.jpg)
-
- Step 3: Go to Apps
-
-![Joy3](/_media/joy3.jpg)
-
- Step 4: Find JOY
-
-![Joy4](/_media/joy4.jpg)
-
- Step 5: Click Clear Data
-
-![Joy5](/_media/joy5.jpg)
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/JOY%20APP%20Samsung.pdf', '_blank')">Samsung Joy App</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/Hdbox_SOP.pdf', '_blank')">HD BOX SOP</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/Hdbox_User_Guide.pdf', '_blank')">HD BOX User Guide</button>
+<button class="mbtn blue" onclick="window.open('http://knowledge.dsl.net.pk/video/VOD_HDBOX_Configuration_Guide.pdf', '_blank')">VOD & HD BOX Configurations</button>
 
 ## Joy Box Stuck / White Screen
 
@@ -75,3 +57,27 @@ Video Extension - **906**
 FSD Video Extension - **2555**
 
 PSH Video Extension - **3555**
+
+
+## Clear cache
+
+ Step 1: Click **Settings** (gear icon)
+
+![Joy1](/_media/joy1.jpg)
+
+ Step 2: Click Settings
+
+![Joy2](/_media/joy2.jpg)
+
+ Step 3: Go to Apps
+
+![Joy3](/_media/joy3.jpg)
+
+ Step 4: Find JOY
+
+![Joy4](/_media/joy4.jpg)
+
+ Step 5: Click Clear Data
+
+![Joy5](/_media/joy5.jpg)
+
