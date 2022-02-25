@@ -12,6 +12,8 @@
 - Click Logo to go Home
 - Easy to copy commands
 
+<button class="mbtn blue">Button</button><button class="mbtn blue">Button</button><button class="mbtn blue">Button</button>
+
 For [Queue](http://172.21.22.142:8080/queuemetrics/qm/realtime2_frame.jsp)
 ```
 t@Cl0G!n1
@@ -34,5 +36,6 @@ For [Softphone (Eyebeam)](https://drive.google.com/file/d/1-s_57yWRCUyswre0IivmZ
 FFM95EQKSFUGX33H2TH4CZ89A5GVR6DP24T9XEBC-EXZ4DLA9WDEMCQPF2WAADHZX
 ```
 
+<button class="mbtn blue">Button</button> <button class="mbtn green">Proceed</button> <button class="mbtn red">Delete</button>
 
 ?> If you have any feedback, kindly email at shoaib.sajid@nayatel.com
