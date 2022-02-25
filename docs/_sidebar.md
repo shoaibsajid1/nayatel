@@ -5,12 +5,14 @@
   - [Nayatel App](nayatelapp.md)
   - [CVAS](cvas.md)
   - [TAC](TAC.md)
+  - [Call Handling](http://knowledge.dsl.net.pk/troubleshooting/Callhandling.htm)
 
 
 - Video
 
   - [Basic Cable](basic.md)
   - [Digital Box](digital.md)
+    - [Manual](http://knowledge.dsl.net.pk/video/New%20STB%20(CAS).pdf)
   - [Joy](joy.md)
   - [Nwatch](nwatch.md)
 
@@ -18,6 +20,9 @@
 
   - [VOIP](voip.md)
   - [POTS](pots.md)
+
+- NOC
+  - [Command List](noc.md)
 
 - Core
 
@@ -33,6 +38,9 @@
   - [Mail hosting](mail.md)
   - [Firewall](firewall.md)
   - [eView](eview.md)
+
+- Level 2
+  - [Level 2 Manual](https://docs.google.com/document/d/1I-CNR_mg6JUH2JvvIPpvrXJIF8cj7KYO/edit?usp=sharing&ouid=102631932253348495210&rtpof=true&sd=true)
 
 - More
 
