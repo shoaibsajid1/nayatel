@@ -1,7 +1,17 @@
 # Digital CAS
 
+## Price
 
-[Digital CAS Emulator](http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/digital-cas.html)
+<button class="mbtn green">6,900 PKR</button>
+
+## Manual
+
+<button class="mbtn blue" onclick="window.location.href='https://nayatel.com/wp-content/uploads/2020/02/Settop-Box-MANUAL.pdf'">Setup box Manual</button>
+
+## Emulator
+
+<button class="mbtn blue" onclick="window.location.href='http://knowledge.dsl.net.pk/TACEmulator/Digital%20CAS/digital-cas.html'">Digital CAS Emulator</button>
+
 
 ## Restore Digital Box
 
@@ -34,10 +44,3 @@ Step 6: Click Autosearch
 
 ![Digital6](/_media/digital6.png)
 
-## Price
-
-STB Price as of 4 Dec 2021 is 6,900/-
-
-## Manual
-
-[**Setup box Manual**](https://nayatel.com/wp-content/uploads/2020/02/Settop-Box-MANUAL.pdf)
