@@ -25,3 +25,7 @@ button.mbtn {
       background-color:#c62828;
   }
 
+  section.cover .cover-main>p:last-child a {
+    background-color: var(--accent);
+    color: #fff;
+}
