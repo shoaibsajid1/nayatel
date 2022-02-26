@@ -11,6 +11,9 @@
   - [TAC Workflow v1.14](http://knowledge.dsl.net.pk/TAC%20L1%20TroubleShooting%20Guide%20V%201.14.docx)
   - [Traceroute Link 1](https://network-tools.webwiz.net/traceroute.htm)
   - [Traceroute Link 2](https://centralops.net/co/)
+  - [Apple](apple.md)
+  - [Level 1](level1.md)
+
 
 
 - Video
@@ -43,20 +46,8 @@
   - [eView](eview.md)
 
 - Legacy Links
+  - [Legacy Links](legacy-links.md)
 
-  - [Recommended Routers](http://knowledge.dsl.net.pk/routers/nayatel_recommeded_routers.htm)
-  - [Nayatel](http://knowledge.dsl.net.pk/nayatel/index.html)
-  - [ST330 Win7 Drivers](http://knowledge.dsl.net.pk/file/windows7.htm)
-  - [Photo of the Day](http://knowledge.dsl.net.pk/confusedali/index.php)
-  - [Error Codes](http://knowledge.dsl.net.pk/ErrorCodes/errorcodes.htm)
-  - [Default Password List](http://knowledge.dsl.net.pk/defaultpasswords.htm)
-  - [Wifi Laptop Buttons](https://www.speedguide.net/forums/showthread.php?214308-How-to-turn-on-off-Wireless-in-various-Laptop-Models)
-  - [Call Handling (Old)](http://knowledge.dsl.net.pk/troubleshooting/Callhandling.htm)
-  - [Trouble Shooting (Old)](http://knowledge.dsl.net.pk/guide/troubleshooting.htm)
-  - [TT generator](http://knowledge.dsl.net.pk/tt/home.htm)
-  - [TAC Essentials](http://knowledge.dsl.net.pk/Doc.htm)
-  - [Quick TT Generator](http://knowledge.dsl.net.pk/qttg/qttg.html)
-  - [TACs CBTs](http://knowledge.dsl.net.pk/CBTS/cbt.html)
 
 
 
