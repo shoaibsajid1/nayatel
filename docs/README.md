@@ -13,7 +13,6 @@
 - Click Logo to go Home
 - Easy to copy commands
 
-<button class="mbtn blue" onclick="window.location.href='https://w3docs.com'">Button</button> 
 
 For [Queue](http://172.21.22.142:8080/queuemetrics/qm/realtime2_frame.jsp)
 ```
