@@ -4,7 +4,6 @@
 > A project for `Technical Assistance Center`
 
 
-
 [Feb 16-28](https://docs.google.com/spreadsheets/d/1Sfv9IA1-fnwDpw6aI67tjA-6UFOgLZa4EaNCoFou4NE/edit#gid=0)
 
 ## Features
@@ -38,8 +37,8 @@ For [Softphone (Eyebeam)](https://drive.google.com/file/d/1-s_57yWRCUyswre0IivmZ
 FFM95EQKSFUGX33H2TH4CZ89A5GVR6DP24T9XEBC-EXZ4DLA9WDEMCQPF2WAADHZX
 ```
 
-<button class="mbtn blue" onclick="window.location.href='https://w3docs.com'">Button</button> 
-<button class="mbtn green">Proceed</button> <button class="mbtn red">Delete</button>
+<button class="mbtn blue" onclick="window.location.href='link'">Blue!</button> 
+<button class="mbtn green">Green!</button> <button class="mbtn red">Red!</button>
 
 ?> If you have any feedback, kindly email at shoaib.sajid@nayatel.com
 
