@@ -282,3 +282,65 @@ In order to set per IP BW restriction kindly follow the below mentioned steps
 7.	Refer to the image below
 
 ![](https://cdn.discordapp.com/attachments/475611486996398121/953337245375533117/Page-15-Image-46.png)
+
+## Secondary DHCP Server
+
+- Go to IP -> Addresses -> Add new
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352828519329882/Page-2-Image-1.png)
+
+- Define network in `Address` field with 1st useable address with / CDR.
+- Define network ID (1st IP of the pool) in `Network` field.
+- Select interface on which this DHCP server will run under `Interface` field.
+- Click `OK` button.
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352828938747914/Page-3-Image-2.png)
+
+- Go to IP -> Pool -> Add New
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352829161050152/Page-4-Image-3.png)
+
+- Define start and end IPs of the pool that is to be assigned by DHCP server in Addresses filed.
+- Select `none` for Next Pool
+- Click on `OK` button.
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352829379158036/Page-5-Image-4.png)
+
+- Go to IP -> DHCP Server -> Add New
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352829639229500/Page-6-Image-5.png)
+
+
+- Select interface other than Ethernet interface for primary DHCP server
+- Select lease time as per requirement
+- Select Address Pool which was created under IP -> Pool for this DHCP server
+- Click on `OK` button.
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352829878284348/Page-7-Image-6.png)
+
+- Go to IP -> DHCP Server -> Networks ->Add New
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352830180266054/Page-8-Image-7.png)
+
+- Write Network Address of LAN network with CIDR in Address field.
+- Gateway of Network in Gateway field.
+- Keep Netmask as `0`
+- Write Nayatel DNS server address in DNS Servers field or leave it blank.
+- Click on `OK` button.
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352830406762596/Page-9-Image-8.png)
+
+- Go to `Interfaces` -> Double click on Ethernet interface selected for secondary DHCP server.
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352830629072956/Page-10-Image-9.png)
+
+- Select Master Port as `none`
+- Click on `OK` button.
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352895561076796/Page-11-Image-10.png)
+
+- Now any network with Ethernet connection to this Ethernet port will be assigned IP from this secondary configured DHCP Server
+ 
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352895825330196/Page-11-Image-11.png)
+
+![](https://cdn.discordapp.com/attachments/475611486996398121/953352896039231488/Page-12-Image-12.png)
