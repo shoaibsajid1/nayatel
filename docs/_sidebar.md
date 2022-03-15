@@ -25,6 +25,7 @@
   - [Optimus](optimus.md)
   - [Speedup](speedup.md)
   - [BRAS](bras.md)
+  - [Additional Usage](additional_usage.md)
 
 
 - Systems
