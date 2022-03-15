@@ -195,7 +195,7 @@ show configuration routing-options static | match 103.55.70.158
 show pppoe lockout
 <underlying-interface-name>
 ```
-![noc]()
+
 
 ## Clear lockout
 
@@ -208,12 +208,12 @@ clear pppoe lockout mac-address 00:00:5e:00:53:30
 ```
 show bgp neighbor 203.99.57.22 
 ```
-![noc]()
+
 
 ## Description of interfaces
 
 ```
 show running-config interface GigabitEthernet0/4
 ```
-![noc]()
+
 
