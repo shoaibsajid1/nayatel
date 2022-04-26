@@ -10,4 +10,4 @@
 [Extensions](https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=669707985)
 [Softphone](https://drive.google.com/file/d/1-s_57yWRCUyswre0IivmZGRkMLvjwDEg/view?usp=sharing)
 [Breaks](https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=0)
-[Schedule](https://docs.google.com/spreadsheets/d/1B8mm5C78GFMT0eRJdYDjuJMpe6z-8uh_Pn5aZ_6VNK8/edit#gid=0)
+[Schedule](https://docs.google.com/spreadsheets/d/1kZr2hE7clsTb5cTHVIutMYbAbN-kBPQ8apA0MqOkbPw/edit#gid=670833473)
