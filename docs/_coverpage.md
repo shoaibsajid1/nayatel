@@ -1,13 +1,4 @@
 ![logo](_media/logo.svg)
 
-[Mail](https://mail.nayatel.com/)
-[Queue](http://172.21.22.142:8080/queuemetrics/qm/realtime2_frame.jsp)
-[NCE](https://nce.nayatel.com:31943/unisso/login.action?service=%2Funisess%2Fv1%2Fauth%3Fservice%3D%252Fnmsnetworkmgrwebsite%252Fv1%252Fwebswing%252Findexforwebswing.html#page=RlBPUC00LTEoMTcyLjE2LjEzLjk4KSUyNiUyNmlzU3dpbmdPcGVuJTI2JTI2MTY=)
-[Smart NCE](https://smartwifi.nayatel.com:31943/)
-[CRM](https://crm.nayatel.com/views/crmViews/nayatelCrm/testingCTI/popup.php)
-[Knowledge](http://knowledge.dsl.net.pk/Extensions.png)
-[WFH IPs](https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=998609915)
-[Extensions](https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=669707985)
-[Softphone](https://drive.google.com/file/d/1-s_57yWRCUyswre0IivmZGRkMLvjwDEg/view?usp=sharing)
-[Breaks](https://docs.google.com/spreadsheets/d/1VQaxvNPMNLT79INenGa1EUVogNOYS4rjxUBrD2vSlIs/edit#gid=0)
-[Schedule](https://docs.google.com/spreadsheets/d/1kZr2hE7clsTb5cTHVIutMYbAbN-kBPQ8apA0MqOkbPw/edit#gid=670833473)
+[New website (BETA)](https://nayatel.netlify.app/)
+
